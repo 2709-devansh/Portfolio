@@ -1,0 +1,22 @@
+h1 {
+ color: brown;
+}
+img{border:2px solid black}
+body{border:1px solid black}
+.header{
+	background-color:turquoise;
+	display:flex;
+	justify-content:space-between;
+}
+.links{background-color:yellow}
+.description{background-color:red}
+.projects{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.footer{
+	display:flex;
+	justify-content:flex-end;
+	background-color:cadetblue;
+}
